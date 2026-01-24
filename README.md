@@ -4,7 +4,7 @@ Nous contacter : cgt@ofb.gouv.fr
 
 Notre actu : 
 
-- https://bsky.app/profile/cgt-environnement.bsky.social
+- 🦋 https://bsky.app/profile/cgt-environnement.bsky.social
 - https://equipementcgt.fr/spip.php?rubrique882
 
 
